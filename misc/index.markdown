@@ -1,6 +1,8 @@
 ---
 title: Miscellaneous
 permalink: /misc/
+
+order: 2
 ---
 
 Below you can find some notes I am writing and/or have written.

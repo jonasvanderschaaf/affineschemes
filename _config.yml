@@ -36,6 +36,16 @@ defaults:
     values:
       layout: page
 
+navigation_header:
+- title: Home
+  url: /
+- title: Miscellaneous
+  url: /misc/
+
+navigation_footer:
+- title: Created by Jonas van der Schaaf
+  url: /
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
