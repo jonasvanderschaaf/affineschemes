@@ -9,5 +9,6 @@ Below you can find some notes I am writing and/or have written.
 
 - [Topics in algebraic geometry]({% link /misc/topics-in-geom.pdf %})
 
-I also am hosting a reading group for logicians who want to learn algebra in
-order to do model theory. Contact me if interested!
+I hosted a reading group for logicians who want to learn algebra in order to do
+model theory. [Here]{% link /misc/polynomials.pdf %} [are]{% /misc/quotient.pdf
+%} some notes I wrote for it.
