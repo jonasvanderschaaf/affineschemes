@@ -4,12 +4,18 @@ permalink: /
 
 feature_text: |
   ## Jonas van der Schaaf
-  Doing algebra stuff for shits n giggles
+  Doing fun algebra things
 
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/banner.jpg"
 
 order: 1
 ---
+
+<style type="text/css">
+  .feature, .feature h2 {
+    color: white
+  }
+</style>
 
 My name is Jonas. I'm currently doing a masters in mathematics and a masters in
 logic at the University of Amsterdam. My main interests are algebraic geometry,
