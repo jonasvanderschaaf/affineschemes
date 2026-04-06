@@ -39,10 +39,10 @@ defaults:
 navigation_header:
 - title: Home
   url: /
-- title: Miscellaneous
-  url: /misc/
 - title: Publications
   url: /publications/
+- title: Miscellaneous
+  url: /misc/
 
 navigation_footer:
 - title: Created by Jonas van der Schaaf
