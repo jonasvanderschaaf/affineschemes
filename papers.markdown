@@ -7,7 +7,7 @@ order: 2
 
 
 - [AKE principles in deeply ramified valued
-fields](https://arxiv.org/abs/2603.29528v1) (2026)
+fields](https://arxiv.org/abs/2603.29528v1) (preprint, 2026)
   
   <span style="font-size:0.8em;">
   joint with [Franziska Jahnke](https://ivv5hpp.uni-muenster.de/u/fjahn_01/en/)
