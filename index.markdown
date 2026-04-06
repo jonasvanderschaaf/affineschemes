@@ -16,6 +16,7 @@ order: 1
     color: white
   }
 </style>
+<img align="right" width="300" src="jonas.jpg">
 
 My name is Jonas. I'm currently a PhD student in Münster working in the
 intersection of model theory, valuation theory and geometry.
